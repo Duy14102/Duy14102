@@ -3,6 +3,6 @@
 </div>
 
 <div align="center">
-    <img align="top" src="https://github-readme-stats.vercel.app/api?username=Duy14102&show_icons=true&theme=radical" alt="Duy14102's GitHub stats">
-    <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duy14102&layout=compact&theme=radical" alt="Top Langs">
+    <img align="center" hspace="5" src="https://github-readme-stats.vercel.app/api?username=Duy14102&show_icons=true&theme=radical" alt="Duy14102's GitHub stats">
+    <img align="center" hspace="5" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duy14102&layout=compact&theme=radical" alt="Top Langs">
 </div>
